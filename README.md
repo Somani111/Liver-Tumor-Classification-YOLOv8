@@ -191,8 +191,7 @@ After training for 50 epochs with YOLOv8n-cls:
 
 ## 📖 Report
 
-The full project report is available in [`docs/Project_Report.pdf`](docs/Project_Report.pdf).
-
+The full project report is available in [\docs\report liver tumor classification.pdf]
 ---
 
 ## 🧰 Tech Stack
